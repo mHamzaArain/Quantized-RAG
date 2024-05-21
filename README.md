@@ -33,3 +33,7 @@ URL: http://0.0.0.0:5000/query
 JSON BODY: {"ask": "What is the revenue of apple" }
 
 
+## Note 
+
+You can chenk notebooks in ```dev-hamza``` branch
+
